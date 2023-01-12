@@ -2,7 +2,7 @@
 
 ## Aprenda o básico da linguagem de programação Java, incluindo tipos de dados, variáveis, estruturas de controle e conceitos de programação orientada a objetos.
 
-* [ ] Aprenda sobre o Spring Framework e seus principais conceitos, como injeção de dependência e inversão de controle.
+* [x] Aprenda sobre o Spring Framework e seus principais conceitos, como injeção de dependência e inversão de controle.
 
 * [ ] Aprenda sobre o Spring Boot e como ele simplifica o desenvolvimento de aplicativos baseados em Spring.
 
@@ -24,10 +24,10 @@ Observe que este é um roteiro de alto nível e é sempre recomendável ter uma 
 
 **Nível iniciante**
  
-- [ ] Introdução ao ecossistema e documentação Java - [acesse o curso](https://web.dio.me/course/introducao-ao-ecossistema-e-documentacao-java/learning/54e1ad91-8842-4065-bc89-37329f54f0cd)
-- [ ] Ambiente de desenvolvimento Java - [acesse o curso](https://web.dio.me/course/configurando-ambiente-de-desenvolvimento-java-no-linux/learning/0668bbda-e32e-44bc-9100-d9dd781bdf8f)
-- [ ] Lógica condicional e Controle de Fluxos em Java - [acesse o curso](https://web.dio.me/course/logica-condicional-e-controle-de-fluxos-em-java/learning/b5616a08-8f2f-4da0-bf9c-0fe384be2b42)
-- [ ] Estruturas de repetição e Arrays em Java - [acesse o curso](https://web.dio.me/course/estruturas-de-repeticao-e-arrays-em-java/learning/febaaad5-ea57-4389-a960-2907fa40041c)
+- [x] Introdução ao ecossistema e documentação Java - [acesse o curso](https://web.dio.me/course/introducao-ao-ecossistema-e-documentacao-java/learning/54e1ad91-8842-4065-bc89-37329f54f0cd)
+- [x] Ambiente de desenvolvimento Java - [acesse o curso](https://web.dio.me/course/configurando-ambiente-de-desenvolvimento-java-no-linux/learning/0668bbda-e32e-44bc-9100-d9dd781bdf8f)
+- [X] Lógica condicional e Controle de Fluxos em Java - [acesse o curso](https://web.dio.me/course/logica-condicional-e-controle-de-fluxos-em-java/learning/b5616a08-8f2f-4da0-bf9c-0fe384be2b42)
+- [x] Estruturas de repetição e Arrays em Java - [acesse o curso](https://web.dio.me/course/estruturas-de-repeticao-e-arrays-em-java/learning/febaaad5-ea57-4389-a960-2907fa40041c)
 - [ ] Entendendo Métodos Java - [acesse o curso](https://web.dio.me/course/entendendo-metodos-java/learning/1d32857c-8137-4b87-8a1c-474300f71648)
 - [ ] Programação Orientada a Objetos - [acesse o curso](https://web.dio.me/course/programacao-orientada-a-objetos/learning/ff0c41a5-8adc-496c-8ff7-7ae1f83ffa49)
 - [ ] Trabalhando c/ collections em Java - [acesse o curso](https://web.dio.me/course/trabalhando-com-collections-java/learning/a34f3db6-de2b-44fa-a059-6ae7785695cc)
